@@ -14,7 +14,7 @@ The collected data is organized into two files:
 With the GitHub API, I filtered for users based in Bangalore who had 100 or more followers. For each user, I then fetched information about their public repositories upto 500, capturing everything from the repository name and programming language to the star count and license type.
 
 ## My Insights:
-### After looking over the data, some interesting patterns stood out:
+After looking over the data, some interesting patterns stood out:
 1. Many popular developers in Bangalore are working in data science, with Python as their primary language.
 2. Repositories with detailed README files and documentation tend to attract more stars and followers.
 
