@@ -25,11 +25,11 @@ Based on these findings, developers looking to build their following might benef
 2. Since Python is already well-loved in Bangalore’s developer community, using it (or similarly popular languages) may increase project visibility.
 
 ## File Descriptions:
-**users.csv**: Information on users in Bangalore with 100+ followers, including their bio, company, and follower count.
-**repositories.csv**: Information on their repositories, like stars, language, and license.
-**README.md**: This file, giving an overview of the project, findings, and recommendations.
+1. **users.csv**: Information on users in Bangalore with 100+ followers, including their bio, company, and follower count.
+2. **repositories.csv**: Information on their repositories, like stars, language, and license.
+3. **README.md**: This file, giving an overview of the project, findings, and recommendations.
 
-## Running the Code
+## Running the Code:
 To fetch and save this data, you’ll need Python installed on your system. Run the script (TDS_Project_1.py) after installing the requests library to pull data from GitHub and generate the CSV files.
 
 
